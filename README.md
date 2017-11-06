@@ -1,2 +1,3 @@
-# ProjectPhase
-Project Guidelines, Project ideas and any other relevant content with respect to students projects
+# Final Projects Prompt
+
+Project Guidelines, Project Ideas and any other relevant content with respect to students projects
